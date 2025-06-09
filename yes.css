@@ -1,0 +1,21 @@
+body{
+	background: rgb(196, 228, 255);
+	font-family: Poppins;
+	height: 300vh;
+}
+
+audio {
+	display: none;
+  }
+
+.kilig img{
+				width: 300px;
+}
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
